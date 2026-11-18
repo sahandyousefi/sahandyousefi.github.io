@@ -3,4 +3,4 @@
 :HL["/_next/static/media/newsreader_latin_opsz_normal-s.p.0dc79pquxokce.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"resume","h":96,"c":"$Q2"}]]
-0:{"b":"y_65c2DIp0DvX7VDizv6G","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"G_riVqqfXU4jRi6mWDBnT","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
